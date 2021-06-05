@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "333702746322",
+    "firebase_url": "https://fir-countapplication.firebaseio.com",
+    "project_id": "fir-countapplication",
+    "storage_bucket": "fir-countapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333702746322:android:2d870c1f5e1327a9a35d0b",
+        "android_client_info": {
+          "package_name": "dev.fummicc1.lit.androidfirebasecountapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333702746322-k2ksgorthnvj20qt6pos0vb6h088qeit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7zDPt-jf_x1HBhR4t2vHBxJUpEfhdMug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333702746322-k2ksgorthnvj20qt6pos0vb6h088qeit.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333702746322-2cdr7vmf46lkubdqaig0i5koh5vr5o0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.fummicc1.lit.FirebaseCountApplication"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333702746322:android:1d5477f3f6cdd3f8a35d0b",
+        "android_client_info": {
+          "package_name": "dev.fummicc1.lit.countapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333702746322-k2ksgorthnvj20qt6pos0vb6h088qeit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7zDPt-jf_x1HBhR4t2vHBxJUpEfhdMug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333702746322-k2ksgorthnvj20qt6pos0vb6h088qeit.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "333702746322-2cdr7vmf46lkubdqaig0i5koh5vr5o0b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.fummicc1.lit.FirebaseCountApplication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
